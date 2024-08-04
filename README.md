@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋,I'm Sujith Kumar</h1>
 <h3 align="center">A full stack web developer turning coffee ☕️ into code and dreams 💤  into reality</h3>
 
-<p align="center"> <img src="https://api.visitorbadge.io/api/VisitorHit?user=B-Sujith-Kumar&repo=github-visitors-badge&countColor=%237B1E7A" alt="b-sujith-kumar" /> </p>
+<div align="center">
+  
+![](https://komarev.com/ghpvc/?username=B-Sujith-Kumar&color=red&style=for-the-badge)
+</div>
 
 - 🔭 I’m currently working on **Tech Talk and Data Structures and Algorithms**
 
