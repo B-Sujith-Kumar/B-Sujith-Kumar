@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋,I'm Sujith Kumar</h1>
-<h3 align="center">A full stack web developer turning coffee ☕️ into code and dreams 💤  into reality</h3>
+<h3 align="center">A full stack web developer turning coffee ☕️ into code</h3>
 
 <div align="center">
   
@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👯 I’m looking to collaborate on **web development projects**
+- 👯 I’m looking to collaborate on **web development and SaaS projects**
 
 - 📫 How to reach me **sujith.suave@gmail.com**
 
