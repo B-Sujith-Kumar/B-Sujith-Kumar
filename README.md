@@ -17,9 +17,10 @@ A passionate software developer constantly exploring new technologies and buildi
 
 ### 🛠️ Technical Expertise
 
-| **Languages**       | Java, JavaScript, TypeScript, HTML, CSS, MySQL, MongoDB |
+| **Section**       | **Skills** |
 |----------------------|---------------------------------------------------------|
-| **Frameworks/Tools** | React.js, Next.js, Node.js, Express.js, Zustand, Tailwind CSS |
+| **Languages**        | Java, JavaScript, TypeScript, HTML, CSS, MySQL, MongoDB |
+| **Frameworks/Tools** | React.js, Next.js, Node.js, Express.js, Spring Boot, Zustand, Tailwind CSS, Vue.js(Basic) |
 | **Others**           | REST APIs, Clerk Authentication, Git|
 
 ---
